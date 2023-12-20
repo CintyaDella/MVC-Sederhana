@@ -1,0 +1,34 @@
+/* styles.css */
+
+.btn-pink {
+    color: #fff; /* Warna teks */
+    background-color: #d87f81; /* Warna latar belakang pink */
+    border-color: #d87f81; /* Warna border pink */
+}
+
+.btn-pink:hover {
+    color: #fff; /* Warna teks saat hover */
+    background-color: #ae6378; /* Warna latar belakang pink saat hover */
+    border-color: #ae6378; /* Warna border pink saat hover */
+}
+
+.mt-4-custom {
+    margin-top: 4rem;
+}
+
+.admin-card-custom {
+    margin-bottom: 2rem;
+}
+
+.table-header-custom {
+    background-color: #d87f81;
+    font-weight: bold;
+}
+
+.table-body-custom {
+    background-color: #fff;
+}
+
+.table-body-custom li {
+    border-bottom: 1px solid #dee2e6;
+}
